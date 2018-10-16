@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 16, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(William Clayton)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Using the template provided we created an expense calculator that calculates the total expenses and finds the percentages of each expense compared to the total amount of expenses. I had to add code for the 3 different variables that were to be added for the completion of the calculator.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://wbc15.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (How to take a total amount from inputs from the user and display the percentages of that total amount.)
+2. (How to master the getElementById. )
+3. (How to enter an expression as code.)
 
 
 
